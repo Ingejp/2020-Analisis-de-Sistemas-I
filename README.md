@@ -4,14 +4,14 @@ Repositorio oficial del curso Análisis de Sistemas I - repositorio para version
 Hola Somos el grupo numero 4
 
 
-Johana
+*Johana
 
-Lesly
+*Lesly
 
-Ernesto
+*Ernesto
 
-Alex
+*Alex
 
-Oscar
+*Oscar
 
-Daniel
+*Daniel
